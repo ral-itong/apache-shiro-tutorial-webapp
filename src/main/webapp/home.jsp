@@ -1,5 +1,3 @@
-<%@ taglib prefix="shiro" uri="http://shiro.apache.org/tags" %>
-<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%--
   ~ Copyright (c) 2013 Les Hazlewood and contributors
   ~
@@ -24,9 +22,6 @@
     <!-- Add some nice styling and functionality.  We'll just use Twitter Bootstrap -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
-    <style>
-        body{padding:0 20px;}
-    </style>
 </head>
 <body>
     <h1>Hello, world!</h1>
